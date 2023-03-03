@@ -1,0 +1,10 @@
+.header-bg {
+  background-color: #f1f5f9;
+  background-size: cover;
+  padding: 10px;
+}
+.logo {
+  width: 190px;
+  height: 60px;
+  margin-left: 90px;
+}

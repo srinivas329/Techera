@@ -1,0 +1,9 @@
+.details-container{
+    display : flex;
+    width : 80%;
+}
+.home-bg1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}

@@ -1,0 +1,18 @@
+.home-bg {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  padding: 20px;
+}
+.ul-list {
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.course-name {
+  margin: 30px;
+}
+.loader {
+  text-align: center;
+  margin-top: 100px;
+}
