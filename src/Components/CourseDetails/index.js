@@ -58,7 +58,7 @@ class CourseItemDetails extends Component {
   }
 
   onClickRetry = () => {
-    this.getCourseDetails()
+    this.getCourseDetailsCard()
   }
 
   render() {
@@ -76,7 +76,9 @@ class CourseItemDetails extends Component {
               className="not-found"
             />
             <h1>Oops! Something Went Wrong</h1>
-            <p>We cannot seem to find the page you are looking for</p>
+            <p>
+              We cannot seem to find the page you are looking for you search
+            </p>
             <button type="button" onClick={this.onClickRetry}>
               Retry
             </button>
